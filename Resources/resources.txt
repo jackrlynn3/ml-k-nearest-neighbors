@@ -1,11 +1,19 @@
 Resources
 
 Articles:
+    Hachcham (2021): https://neptune.ai/blog/knn-algorithm-explanation-opportunities-limitations
     Harrison (2018): https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761 
+    Kumar (2021): https://buggyprogrammer.com/difference-between-k-means-and-knn/
     Martulandi (2019): https://medium.datadriveninvestor.com/k-nearest-neighbors-in-python-hyperparameters-tuning-716734bc557f 
+    Mullick et al. (2018): https://ieeexplore-ieee-org.aurarialibrary.idm.oclc.org/stamp/stamp.jsp?tp=&arnumber=8326728
+    SciKit (1): https://scikit-learn.org/stable/modules/neighbors.html
+    SciKit (2): https://scikit-learn.org/stable/modules/generated/sklearn.metrics.DistanceMetric.html#sklearn.metrics.DistanceMetric
     Sharma (2022): https://www.analyticsvidhya.com/blog/2020/02/4-types-of-distance-metrics-in-machine-learning/
     Tripathi (2021): https://shubh-tripathi.medium.com/knn-7be936cea811 
     Zhang (2016): https://atm.amegroups.com/article/view/10170/html
 
 Code Example:
     Classification: example-classification.ipynb
+
+Data:
+    Diabetes data: https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
