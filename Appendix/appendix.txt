@@ -1,4 +1,4 @@
-Resources
+Appendix
 
 Articles:
     Hachcham (2021): https://neptune.ai/blog/knn-algorithm-explanation-opportunities-limitations
@@ -14,6 +14,7 @@ Articles:
 
 Code Example:
     Classification: example-classification.ipynb
+    Regression: example-regression.ipynb
 
 Data:
-    Diabetes data: https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
+    Diabetes: https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
