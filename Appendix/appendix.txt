@@ -5,6 +5,7 @@ Articles:
     Harrison (2018): https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761 
     Kumar (2021): https://buggyprogrammer.com/difference-between-k-means-and-knn/
     Martulandi (2019): https://medium.datadriveninvestor.com/k-nearest-neighbors-in-python-hyperparameters-tuning-716734bc557f 
+    Muhajir (2019): https://medium.com/analytics-vidhya/k-neighbors-regression-analysis-in-python-61532d56d8e4
     Mullick et al. (2018): https://ieeexplore-ieee-org.aurarialibrary.idm.oclc.org/stamp/stamp.jsp?tp=&arnumber=8326728
     SciKit (1): https://scikit-learn.org/stable/modules/neighbors.html
     SciKit (2): https://scikit-learn.org/stable/modules/generated/sklearn.metrics.DistanceMetric.html#sklearn.metrics.DistanceMetric
