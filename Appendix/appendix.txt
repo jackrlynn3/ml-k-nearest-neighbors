@@ -9,6 +9,7 @@ Articles:
     Mullick et al. (2018): https://ieeexplore-ieee-org.aurarialibrary.idm.oclc.org/stamp/stamp.jsp?tp=&arnumber=8326728
     SciKit (1): https://scikit-learn.org/stable/modules/neighbors.html
     SciKit (2): https://scikit-learn.org/stable/modules/generated/sklearn.metrics.DistanceMetric.html#sklearn.metrics.DistanceMetric
+    SciKit (3): https://scikit-learn.org/stable/auto_examples/neighbors/plot_regression.html#sphx-glr-auto-examples-neighbors-plot-regression-py
     Sharma (2022): https://www.analyticsvidhya.com/blog/2020/02/4-types-of-distance-metrics-in-machine-learning/
     Tripathi (2021): https://shubh-tripathi.medium.com/knn-7be936cea811 
     Zhang (2016): https://atm.amegroups.com/article/view/10170/html
