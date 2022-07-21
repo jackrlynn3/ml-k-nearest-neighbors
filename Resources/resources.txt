@@ -1,0 +1,11 @@
+Resources
+
+Articles:
+    Harrison (2018): https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761 
+    Martulandi (2019): https://medium.datadriveninvestor.com/k-nearest-neighbors-in-python-hyperparameters-tuning-716734bc557f 
+    Sharma (2022): https://www.analyticsvidhya.com/blog/2020/02/4-types-of-distance-metrics-in-machine-learning/
+    Tripathi (2021): https://shubh-tripathi.medium.com/knn-7be936cea811 
+    Zhang (2016): https://atm.amegroups.com/article/view/10170/html
+
+Code Example:
+    Classification: example-classification.ipynb
