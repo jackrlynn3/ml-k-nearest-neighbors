@@ -17,6 +17,7 @@ Articles:
 Code Example:
     Classification: example-classification.ipynb
     Regression: example-regression.ipynb
+    Visuals: kvalue-visuals.ipynb
 
 Data:
     Diabetes: https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
